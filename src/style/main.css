@@ -5,6 +5,10 @@ body{
     padding: 0;
     background: lightblue;
 }
+h1{
+    text-align: center;
+    color: lime;
+}
 ul{
     padding: 0;
     margin: 0;
